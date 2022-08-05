@@ -7,14 +7,14 @@
 <div align="center">
   <img border-radius: 15px src="https://s6.uupload.ir/files/img_20220722_114147_322_g3y.jpg" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="b4sh.ir" src="https://img.shields.io/badge/b4sh.ir-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-AmeerSuhail-0/Pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Bashir12340"><img title="Author" src="https://img.shields.io/badge/Author-B4SH.IR-0/Pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/Bashir12340">Bashir12340</a> to make it public
     <br>
        | © |
         Reserved |
@@ -26,9 +26,9 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ameer-kallumthodi/Pikachu-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Bashir12340/b4sh.ir-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bashir12340/b4sh.ir)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -39,21 +39,21 @@ bash <(curl -L https://t.ly/tHxh)
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@ameer-kallumthodi/Pikachu-QR?v=1)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@Bashir12340/b4sh.ir-QR?v=1)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/ameer-kallumthodi/pikachu/fork)
+ Click [FORK](https://github.com/Bashir12340/b4sh.ir/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu copy this url and change ameer-kallumthodi with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Bashir12340/b4sh.ir copy this url and change Bashir12340 with your github username and click go<br>
 
 ----
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
+<a href="https://instagram.com/b4sh.ir" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -61,16 +61,17 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
+  <a href="httsp://github.com/Bashir12340/b4sh.ir">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Bashir12340/followers"><img title="Followers" src="https://img.shields.io/github/followers/Bashir12340?color=Magenta&style=flat-square"></a>
 </p>
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇
+ توجه ## 📢 
+
+برای پشتیبانی میتوانید در واتساپ با من در ارتباط باشید 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxoc.png)](http://wa.me/+919946432377)
+  [![join](https://i.imgur.com/reMlxoc.png)](http://wa.me/+989923766568)
   <div align="center">
        
   </div>
@@ -81,8 +82,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/Bashir12340/b4sh.ir
+$ cd b4sh.ir
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -91,8 +92,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/Bashir12340/b4sh.ir
+$ cd b4sh.ir
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -112,9 +113,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Ameer Suhail`](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/ameer-kallumthodi)
+  [![`Ameer Suhail`](https://github.com/Bashir12340.png?size=200)](https://github.com/Bashir12340)
 
-[`Ameer Suhail`](https://github.com/ameer-kallumthodi)  
+[`Ameer Suhail`](https://github.com/Bashir12340)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
