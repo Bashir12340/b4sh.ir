@@ -1,6 +1,6 @@
 FROM quay.io/lyfe00011/test:beta
 
-RUN git clone https://github.com/ameer-kallumthodi/pikachu /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/Bashir12340/b4sh.ir /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
 RUN yarn install --no-audit
 RUN git clone https://github.com/ameer-kallumthodi/media
