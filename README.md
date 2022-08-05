@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/Bashir12340">Bashir12340</a> to m
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Bashir12340/b4sh.ir-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@b4shir/b4shir-bot?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bashir12340/b4sh.ir)
      </div>
