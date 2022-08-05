@@ -21,7 +21,7 @@ module.exports = {
     SESSION: process.env.PIKACHU_SESSION === undefined ? '' : process.env.PIKACHU_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
-    GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
+    GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://s6.uupload.ir/files/img_20220722_114147_322_g3y.jpg' : process.env.GAN_IMAGE,
 
     PM_BLOCK: process.env.PM_BLOCK === undefined ? 'false' : process.env.PM_BLOCK,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
@@ -61,7 +61,7 @@ module.exports = {
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
     YAK: process.env.YAK === undefined ? '919946432377,0' : process.env.YAK,
     OWNERSHIP: process.env.OWNER_SHIP === undefined ? 'Ameer Suhail' : process.env.OWNER_SHIP,
-    LOGO: process.env.LOGO_LINK === undefined ? 'https://i.imgur.com/SoIxkUE.jpeg' : process.env.LOGO_LINK,
+    LOGO: process.env.LOGO_LINK === undefined ? 'https://s6.uupload.ir/files/img_20220722_114147_322_g3y.jpg' : process.env.LOGO_LINK,
     BOTV2: process.env.BOTV2_NAME === undefined ? '⚡℘їкѦ¢ℌʊ⚡' : process.env.BOTV2_NAME,
     PIKACHU_AI: process.env.PIKACHU_AI === undefined ? 'false' : process.env.PIKACHU_AI,
     ALIVEBUTTON: process.env.ALIVEBUTTON === undefined ? 'ʜᴇʟʟᴏ ʙʀᴏ' : process.env.ALIVEBUTTON,
