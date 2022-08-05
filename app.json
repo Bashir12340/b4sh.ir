@@ -1,15 +1,15 @@
 {
-    "name": "PIKACHU",
-    "description": "Pikachu is the Modified Version of WhatsAsena, Made By @Ameer Suhail with Baileys.",
-    "logo": "https://i.imgur.com/SoIxkUE.jpeg",
-    "keywords": ["whatsapp", "userbot", "pikachu", "WhatsAsena", "pikachu", "bot", "ai"],
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
-    "website":   "https://github.com/ameer-kallumthodi/pikachu",
-    "success_url": "https://github.com/ameer-kallumthodi/pikachu",
+    "name": "B4SH.IR",
+    "description": "b4sh.ir ربات در این قسمت نام ایپی هرکو وا شناسه را قرار دهید وا ران کنید",
+    "logo": "https://s6.uupload.ir/files/img_20220722_114147_322_g3y.jpg",
+    "keywords": ["whatsapp", "userbot", "b4sh.ir", "WhatsAsena", "b4sh.ir", "bot", "ai"],
+    "repository": "https://github.com/Bashir12340/b4sh.ir",
+    "website":   "https://github.com/Bashir12340/b4sh.ir",
+    "success_url": "https://github.com/Bashir12340/b4sh.ir",
     "stack": "container",
     "env": {
         "PIKACHU_SESSION": {
-            "description": "Type here yours Pikachu Session.",
+            "description": "Type here yours b4sh.ir Session.",
             "required": true
         },
         "SUDO": {
