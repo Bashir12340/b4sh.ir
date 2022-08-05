@@ -1,11 +1,11 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+PIKACHU+WA+BOT+REPO.;CREATED+BY+AMEER+SUHAIL;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amiri&color=F70000&center=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&vCenter=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&lines=WELCOME+TO+B4SH.IR+BOT;MR_JOKER_B)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/SoIxkUE.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="https://s6.uupload.ir/files/img_20220722_114147_322_g3y.jpg" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
