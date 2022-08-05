@@ -66,7 +66,7 @@ module.exports = {
     PIKACHU_AI: process.env.PIKACHU_AI === undefined ? 'false' : process.env.PIKACHU_AI,
     ALIVEBUTTON: process.env.ALIVEBUTTON === undefined ? 'ʜᴇʟʟᴏ ʙʀᴏ' : process.env.ALIVEBUTTON,
     ALIVE_BUTTON: process.env.ALIVE_BUTTON === undefined ? 'ʜɪ ᴅᴜᴅᴇ' : process.env.ALIVE_BUTTON,
-    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://telegra.ph/file/7524baa6ad51f38a69d63.jpg' : process.env.LG_LOGO,
+    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://s6.uupload.ir/files/img_20220722_114147_322_g3y.jpg' : process.env.LG_LOGO,
     LOGO_NAME: process.env.LOGO_NAME === undefined ? '⚡℘їкѦ¢ℌʊ⚡' : process.env.LOGO_NAME,
     NOLOG: process.env.NO_LOG === undefined ? 'true' : process.env.NO_LOG,
     NU: process.env.NUMBER === undefined ? false : process.env.NUMBER,
